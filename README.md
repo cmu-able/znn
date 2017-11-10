@@ -103,3 +103,5 @@ dynamically:
 - Performance
 - Cost
 - Content Fidelity
+
+# [Installation Instructions](documents/Installation.md)
